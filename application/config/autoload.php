@@ -134,3 +134,4 @@ $autoload['language'] = array();
 */
 $autoload['model'] = array('flags', 'groups', 'priorities', 'sizes', 'statuses', 'tasks');
 $autoload['libraries'] = array('parser', 'database', 'parsedown');
+$autoload['libraries'] = array('parser', 'database', 'parsedown','session');
